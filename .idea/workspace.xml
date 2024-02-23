@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70a36b40-81ff-48a7-8c68-b2908c108b4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Servlets/BeanStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Servlets/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Servlets/CourseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Servlets/CoursesWithTeacherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Servlets/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Servlets/LogoutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Servlets/ShowCoursesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Servlets/StudentCoursesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Servlets/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Last-task-Adam-Barnell/resources/JavaEE8Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Last/task/Adam/Barnell/JAXRSConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/All.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/JSPs/Course.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/JSPs/HomePage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/JSPs/Index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/JSPs/Login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/JSPs/NavBar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/JSPs/Students.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/JSPs/courseDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/JSPs/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/JSPs/showCourses.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/JSPs/studentCourse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/JSPs/studentCourses.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/JSPs/teacherDashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2cPO1ng36KtG45YB7dD0XB1nnkw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adamb\OneDrive\Skrivbord\Java\Övningsuppgifter\Last-task-Adam-Barnell\src\main\webapp\JSPs" />
+      <recent name="C:\Users\adamb\OneDrive\Skrivbord\Java\Övningsuppgifter\Last-task-Adam-Barnell\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Last.task.Adam.Barnell" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Last.task.Adam.Barnell" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70a36b40-81ff-48a7-8c68-b2908c108b4a" name="Changes" comment="" />
+      <created>1708009537111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708009537111</updated>
+    </task>
+    <servers />
+  </component>
+</project>
